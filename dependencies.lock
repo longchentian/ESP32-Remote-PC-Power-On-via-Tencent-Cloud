@@ -1,0 +1,15 @@
+dependencies:
+  espressif/lightbulb_driver:
+    component_hash: 71c6d998724f61ab2568927c93b8be3e3dcb986395bdc507c3e5e0f35aed4bbe
+    source:
+      service_url: https://api.components.espressif.com/
+      type: service
+    version: 0.0.9
+  idf:
+    component_hash: null
+    source:
+      type: idf
+    version: 4.4.7
+manifest_hash: e88d32a4dac8272f5ba50d147cd859a4f38138afe6e4025d1a196a900be138de
+target: esp32c3
+version: 1.0.0
